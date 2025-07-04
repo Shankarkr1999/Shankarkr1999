@@ -1,16 +1,22 @@
-## Hi there 👋
-
-<!--
-**Shankarkr1999/Shankarkr1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi 👋, I'm Shankar Kr
+A passionate Java developer & Vulnerability analyst from India
+🔭 I’m currently working on Retail infra vulnerability remediation team
+🌱 I’m currently learning Java, SQL, ETL concepts
+🤝 I’m looking for help with Gradle & maven API
+👯 I’m looking to collaborate on Java project
+📄 Know about my experiences file:///C:/resume%201%20&%202/Shankar%20resume%204.pdf
+📫 How to reach me shankargurukr1999@gmail.com
+Languages and Tools:
+Java
+SQL
+Intellij
+Openshift
+Servicenow
+confluence
+aws
+docker
+git
+java
+jenkins
+mysql
+selenium
